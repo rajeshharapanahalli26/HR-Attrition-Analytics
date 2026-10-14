@@ -1,8 +1,8 @@
 # HR Analytics: Employee Attrition Insights and Predictive Modelling
 
 **Author:** Rajesh Harapanahalli  
-**Programme:** MCA — Data Science and Analytics  
-**Project type:** Academic Internship Project  
+**Programme:**  Data Analytics with AI 
+**Project type:** Internship Project  
 
 > ⚠️ **IMPORTANT:** The dataset used in this project is **entirely fictional**. It was synthesised by IBM data scientists for illustrative purposes. It does **not** represent real IBM employees or real IBM HR decisions. All findings apply only to this fictional dataset.
 
